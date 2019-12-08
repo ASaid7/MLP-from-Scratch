@@ -1,4 +1,3 @@
 # MLP-from-Scratch
 
-Dataset included
-Multi Layer Perceptron for MNIST dataset 
+Multi Layer Perceptron in numpy for MNIST dataset 
